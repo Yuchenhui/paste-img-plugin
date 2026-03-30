@@ -1,0 +1,9 @@
+{
+  "name": "paste-img",
+  "description": "Paste Windows clipboard image into Claude Code conversation on WSL. Captures screenshot from Windows clipboard via PowerShell and makes it available for Claude to read.",
+  "author": {
+    "name": "myu",
+    "email": ""
+  },
+  "version": "1.0.0"
+}

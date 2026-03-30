@@ -1,0 +1,13 @@
+{
+  "name": "local-plugins",
+  "owner": {
+    "name": "myu"
+  },
+  "plugins": [
+    {
+      "name": "paste-img",
+      "description": "Paste Windows clipboard image into Claude Code conversation on WSL",
+      "source": "./"
+    }
+  ]
+}
