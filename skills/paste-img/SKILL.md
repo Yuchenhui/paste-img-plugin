@@ -19,7 +19,7 @@ Capture an image from the Windows clipboard and display it in the conversation.
 
 ## Error handling
 
-- If the script outputs "剪贴板中没有图片", tell the user to first take a screenshot (e.g., Win+Shift+S) and then retry.
-- If the script outputs "无法访问 PowerShell", tell the user this plugin requires WSL with Windows interop enabled.
+- If the script outputs "No image found in clipboard", tell the user to first take a screenshot (e.g., Win+Shift+S) and then retry.
+- If the script outputs "Cannot access PowerShell", tell the user this plugin requires WSL with Windows interop enabled.
 
 $ARGUMENTS
