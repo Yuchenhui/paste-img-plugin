@@ -7,6 +7,7 @@
     {
       "name": "paste-img",
       "description": "Paste Windows clipboard image into Claude Code conversation. Works in both WSL and native Windows (PowerShell/pwsh).",
+      "version": "1.0.0",
       "source": "./"
     }
   ]
