@@ -56,14 +56,6 @@ claude plugins marketplace add Yuchenhui/paste-img-plugin
 claude plugins install paste-img@paste-img-plugin
 ```
 
-### Upgrade from old version
-
-```bash
-claude plugins uninstall paste-img@local-plugins
-claude plugins marketplace remove local-plugins
-claude plugins marketplace add Yuchenhui/paste-img-plugin
-claude plugins install paste-img@paste-img-plugin
-```
 
 Restart your Claude Code session after installation.
 
