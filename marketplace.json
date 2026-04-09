@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "paste-img",
-      "description": "Paste Windows clipboard image into Claude Code conversation on WSL",
+      "description": "Paste Windows clipboard image into Claude Code conversation. Works in both WSL and native Windows (PowerShell/pwsh).",
       "source": "./"
     }
   ]
