@@ -1,6 +1,6 @@
 {
   "name": "paste-img",
-  "description": "Paste Windows clipboard image into Claude Code conversation on WSL. Captures screenshot from Windows clipboard via PowerShell and makes it available for Claude to read.",
+  "description": "Paste Windows clipboard image into Claude Code conversation. Works in both WSL and native Windows (PowerShell/pwsh) environments.",
   "author": {
     "name": "myu",
     "email": ""
